@@ -37,7 +37,7 @@ const MainContent = () => {
   };
 
   return (
-    <div className="container">
+    <main className="container">
       <div className="text-center py-5 mt-4">
         <h1 className="display-4 fw-bold mb-3">Gere senhas seguras</h1>
         <p className="lead text-muted">
@@ -130,7 +130,7 @@ const MainContent = () => {
           Gerar Senha
         </button>
       </div>
-    </div>
+    </main>
   );
 };
 

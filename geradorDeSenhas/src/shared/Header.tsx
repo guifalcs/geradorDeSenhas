@@ -6,9 +6,9 @@ const Header = () => {
       <div className="container">
         <div className="row align-items-center">
           <div className="col-md-6">
-            <h1 className="display-4 fw-bold mb-3">
+            <title className="display-4 fw-bold mb-3">
               Gerador de Senhas
-            </h1>
+            </title>
             <hr className="my-2 opacity-25" />
             <p className="lead mb-4">
               Crie senhas fortes e seguras com nosso gerador avançado.
