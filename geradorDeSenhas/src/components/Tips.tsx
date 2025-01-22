@@ -7,7 +7,7 @@ const Tips = () => {
         <div className="row align-items-center">
           <div className="col-md-6">
             <img 
-              src="https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=800&q=80"
+              src="/photo2.jpg"
               alt="Dicas de Segurança"
               className="img-fluid rounded-4 shadow-lg"
             />

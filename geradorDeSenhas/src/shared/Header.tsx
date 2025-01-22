@@ -31,7 +31,7 @@ const Header = () => {
           </div>
           <div className="col-md-6">
             <img 
-              src="https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=800&q=80" 
+              src="/photo1.jpg" 
               alt="Segurança Digital"
               className="img-fluid rounded-4 shadow-lg"
               style={{ maxHeight: '15em', objectFit: 'cover', width: '100%' }}
